@@ -1,2 +1,2 @@
 # java
-A java program creating a aclculator
+A java program creating a calculator
